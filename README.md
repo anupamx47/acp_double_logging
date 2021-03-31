@@ -1,4 +1,4 @@
-ACP Double logging detection and mitigation script
+**FMC ACP Double logging detection and mitigation script**
 
 A report is generated if there are double logging on FMC ACP (logging at begining and end), having rule action "Allow" or "Trust"
 
