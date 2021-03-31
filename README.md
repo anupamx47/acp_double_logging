@@ -7,6 +7,7 @@ The usage is as below.
 4. You can either choose to just generate the report or 
 5. Generate report along with changing the logging  to end of connection and save the changes. 
 
+'''
   PS C:\Users\anupam\Desktop\scripts\Logging-Bulk-beg-end\Release\loggin_main_1.9.py> python logging_main_1.9.py
   ###########################################################
   #               ACCESS CONTROL POLICY                     #
@@ -46,3 +47,4 @@ The usage is as below.
   Number of rules with Allow action & LogBeg & LogEnd :  985
   The report has been created with name  ACP_SERVER-FW-BACKBONE_Report_1617188521.9678984.csv
   ###########################################################
+'''
