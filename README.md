@@ -4,7 +4,7 @@ A python based script to generate report if there are double logging on FMC ACP 
 
 The usage is as below.
 
-Ensure python3 is installed and the below modules are already available 
+Ensure python3 is installed and the below modules are already available. 
 Both the python files "logging_main_1.9.py" and "rule_writer.py" is needed.
 
 1. Enter the IP of the FMC
