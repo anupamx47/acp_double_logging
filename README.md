@@ -3,6 +3,9 @@
 A report is generated if there are double logging on FMC ACP (logging at begining and end), having rule action "Allow" or "Trust"
 
 The usage is as below.
+Ensure python3 is installed and the below modules are already available 
+Both the python files "logging_main_1.9.py" and "rule_writer.py" is needed.
+
 1. Enter the IP of the FMC
 2. Username and password (Make use of a separate user for running API based script on FMC)
 3. Select the ACP you want to detect double logging.
