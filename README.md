@@ -1,6 +1,6 @@
 **FMC ACP Double logging detection and mitigation script**
 
-A python based script to generate report if there are double logging on FMC ACP (logging at begining and end), having rule action "Allow" or "Trust"
+A python based script to generate report if there are double logging on FMC ACP (logging at beginning and end), having rule action "Allow" or "Trust"
 
 The usage is as below.
 
