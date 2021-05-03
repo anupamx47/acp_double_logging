@@ -4,7 +4,11 @@ A python based script to generate report if there are double logging on FMC ACP 
 
 The usage is as below.
 
-Ensure python3 is installed and the below modules are already available. 
+Step 1: Download the script on PC
+Step 2: Make sure python3 is installed on PC and have reachability to FMC on 443)
+Step 3: Make sure API is enabled on FMC (System -> Configuration -> Rest API Preference -> Enable REST API )
+Step 4: Create a separate user on FMC to use during script execution
+Step 5: Make sure proper permission is given to script to execute (This applies specifically if you're executing script from linux machine)
 
 Both the python files "logging_main_1.9.py" and "rule_writer.py" is needed.
 
